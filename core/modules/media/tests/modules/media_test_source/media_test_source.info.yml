@@ -1,0 +1,10 @@
+name: 'Test media source'
+type: module
+description: 'Provides test media source to test configuration forms.'
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2023-02-01
+version: '10.0.3'
+project: 'drupal'
+datestamp: 1675276783

@@ -1,0 +1,12 @@
+name: 'Migration Stub Test'
+type: module
+description: 'Provides test migrations to test migration  stub service.'
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:migrate
+
+# Information added by Drupal.org packaging script on 2023-02-01
+version: '10.0.3'
+project: 'drupal'
+datestamp: 1675276783

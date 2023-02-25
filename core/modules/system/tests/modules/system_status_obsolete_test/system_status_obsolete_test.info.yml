@@ -1,0 +1,12 @@
+name: 'System obsolete status test'
+type: module
+description: 'Support module for testing an obsolete module extension.'
+package: Testing
+# version: VERSION
+lifecycle: obsolete
+lifecycle_link: 'https://example.com/obsolete'
+
+# Information added by Drupal.org packaging script on 2023-02-01
+version: '10.0.3'
+project: 'drupal'
+datestamp: 1675276783

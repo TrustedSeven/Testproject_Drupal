@@ -1,0 +1,10 @@
+name: 'Search Date Query Alter'
+type: module
+description: 'Test module that adds date conditions to node searches.'
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2023-02-01
+version: '10.0.3'
+project: 'drupal'
+datestamp: 1675276783

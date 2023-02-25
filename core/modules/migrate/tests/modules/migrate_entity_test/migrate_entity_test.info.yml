@@ -1,0 +1,10 @@
+name: 'Migrate entity test'
+type: module
+description: 'Support module for entity destination test.'
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2023-02-01
+version: '10.0.3'
+project: 'drupal'
+datestamp: 1675276783
